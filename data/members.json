@@ -1,5 +1,34 @@
 [
   {
+    "Year": 2023,
+    "Members": [
+      {
+        "Name": "みやま",
+        "Thumbnail": "/images/members/koma.png",
+        "Tags": [ "イラスト", "ClipStagio" ], 
+        "Description": "シナリオゲームが好きです。分からないことだらけで勉強できるのが楽しいです！",
+        "SNS": {
+          "Twitter": "https://twitter.com/tsubusa_"
+        }
+      },
+     {
+        "Name": "夜間",
+        "Tags": [ "C++", "Python", "C#", "Unity", "OpenSiv3D" ],
+        "Description": "人文学学位プログラム所属。OpenSiv3Dをえいえいしたいこの頃。",
+        "SNS": {
+          "Twitter": "https://twitter.com/gotobed0723",
+          "Github": "https://github.com/yaacan"
+        }
+      },
+      {
+        "Name": "モリ",
+        "Tags": ["python","C#","Unity"],
+        "Description": "ゲームを作るのが上手くなりたいです",
+        "Thumbnail": "https://2.bp.blogspot.com/-JOd2KJD8uZg/XE_Pwg5UzWI/AAAAAAABRT0/NEICpG0UvIkVDcpOGQIwDVXViVFc5JL6QCLcBGAs/s350/tree_mark_side.png"
+      }
+    ]
+  },
+  {
     "Year": 2022,
     "Members": [
       {
@@ -18,6 +47,9 @@
       {
         "Name": "haus",
         "Description": "世界は金色に包まれているのだ"
+      },
+      {
+        "Name": "Meikumo"
       }
     ]
   },
